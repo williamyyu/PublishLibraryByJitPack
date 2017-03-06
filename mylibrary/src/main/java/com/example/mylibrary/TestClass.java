@@ -5,4 +5,8 @@ package com.example.mylibrary;
  */
 
 public class TestClass {
+
+    public boolean testFunc() {
+        return true;
+    }
 }
