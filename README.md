@@ -1,4 +1,6 @@
 # Publish an Android Library by JitPack
+[![](https://jitpack.io/v/ome450901/TestPublishLibrary.svg)]
+(https://jitpack.io/#ome450901/TestPublishLibrary)
 
 ##See more detail in my [Blog](https://medium.com/@ome450901/publish-an-android-library-by-jitpack-a0342684cbd0#.gcakfn5mw)
 
